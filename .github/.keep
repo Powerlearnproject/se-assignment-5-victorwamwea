@@ -1,0 +1,56 @@
+Prerequisites:
+
+Windows 11 operating system (32-bit or 64-bit)
+Internet connection
+Steps:
+
+Download: Visit the official VS Code download page: https://code.visualstudio.com/download.
+Choose Installer: Select the appropriate installer based on your system architecture (32-bit or 64-bit). It's usually recommended to download the 64-bit version unless you have a specific reason to use the 32-bit version.
+Run Installer: Double-click the downloaded installer (.exe file).
+Installation Process: Follow the on-screen instructions. By default, VS Code installs to "C:\Users&lt;username>\AppData\Local\Programs\Microsoft VS Code". You can choose a different location if desired.
+Create Desktop Shortcut (Optional): During installation, you can choose to create a desktop shortcut for easy access.
+First-time Setup:
+Initial Configurations:
+
+Themes: Explore the built-in themes (Settings > Appearance > Theme) and choose one that suits your preference (e.g., Dark+, Light+).
+Font Size: Adjust the font size (Settings > Editor > Font Size) for better readability.
+Extensions: Install essential extensions (Extensions icon in the Activity Bar). Here are some examples for web development:
+HTML (CSS) Tools: Improves HTML, CSS, and JavaScript editing experience.
+Live Server: Launches a development server to preview code changes in a web browser.
+ESLint: Provides code linting and static analysis for JavaScript code.
+Settings: Explore other settings to customize keyboard shortcuts (Settings > Keyboard Shortcuts) and various editor behaviors (Settings > Editor).
+User Interface Overview:
+Activity Bar (Left): Provides access to common actions like opening files, searching, debugging, and extensions.
+Side Bar (Left): Shows the Explorer panel (file management), opened folders, and source control integration (if enabled).
+Editor Group (Center): The main workspace where you open and edit files. You can have multiple editor groups with different files open simultaneously.
+Status Bar (Bottom): Displays information about the current file (e.g., line number, selection), indentation mode, and active terminal instance.
+Command Palette:
+Access: Use Ctrl+Shift+P (Windows) or Cmd+Shift+P (macOS) to open the Command Palette.
+Functionality: It allows you to search for and execute various VS Code commands by typing keywords.
+Examples:
+Open a new file: Type "New File" and press Enter.
+Start debugging: Type "Start Debugging" and select the appropriate configuration.
+Install an extension: Type "Install Extension" and search for the extension by name.
+Extensions in VS Code:
+Extensions: Enhance VS Code functionalities beyond its core features. They offer support for specific programming languages, frameworks, and additional tools.
+Finding Extensions: Browse the VS Code Marketplace (Extensions icon > Browse Extensions).
+Installation: Click the "Install" button for the desired extension.
+Management: Manage installed extensions in the Extensions view (Extensions icon > Manage Extensions).
+Web Development Examples: Refer to the recommendations in the "First-time Setup" section for popular web development extensions.
+Integrated Terminal:
+Access: Open the integrated terminal using the Terminal icon (bottom panel) or by going to Terminal > New Terminal (menu).
+Advantages:
+Seamless integration with VS Code: Run commands directly related to your project within the IDE.
+Code execution and debugging within the same window.
+No need to switch between VS Code and a separate terminal application.
+Disadvantages: Can feel limited for advanced terminal users who prefer dedicated terminal applications.
+File and Folder Management:
+Creating Files/Folders: Use the File menu or right-click in the Explorer panel to create new files and folders.
+Opening Files: Double-click on a file in the Explorer panel to open it in the editor.
+Navigation:
+Use the Explorer panel to navigate through your project directory structure.
+Use the "Go to File" functionality (Ctrl+T or Cmd+T) to quickly open specific files by name.
+Use the breadcrumb navigation at the top of the editor to move between parent directories.
+Settings and Preferences:
+Access: Open the Settings view using the Settings icon (gear icon in the Activity Bar) or by going to File > Preferences > Settings (menu).
+Customization Examples:
